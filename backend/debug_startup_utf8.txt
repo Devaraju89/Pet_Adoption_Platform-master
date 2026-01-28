@@ -1,0 +1,26 @@
+﻿Starting server.js...
+Dotenv configured
+Starting server.js...
+Dotenv configured
+Imports started
+Imported connectDB
+Imported authRoutes
+Imports finished
+Connecting to DB...
+DB Connected
+Starting server.js...
+Dotenv configured
+Imports started
+Imported connectDB
+Imported authRoutes
+Imports finished
+Connecting to DB...
+DB Connected
+Starting server.js...
+Dotenv configured
+Imports started
+Imported connectDB
+Imported authRoutes
+Imports finished
+Connecting to DB...
+DB Connected

@@ -1,0 +1,25 @@
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.gitignore
+	README.md
+	SETUP_INSTRUCTIONS.md
+	backend/
+	backend_start.log
+	debug_out.txt
+	frontend/
+	images/
+	models_list.txt
+	push_output.txt
+	seed_output.txt
+	server_crash_log.txt
+	setup_envs.js
+	status_output.txt
+	user_import_test.log
+	wrapper_err.log
+	wrapper_out.log
+
+nothing added to commit but untracked files present (use "git add" to track)

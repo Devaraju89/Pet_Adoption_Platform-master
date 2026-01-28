@@ -1,0 +1,58 @@
+Connected to MongoDB.
+Total Users: 2
+- User: Admin User (Role: admin) ID: 6979b511bbf1e64ad89a563d
+- User: Test User (Role: user) ID: 6979b790767c619b8fbec5e7
+Total Pets: 6
+Total Adoption Requests: 20
+- Request: Pet 6931c33591b659b3b0400e62 by User 6937004a871a8d57a2f88536, Status: approved
+- Request: Pet 6931c34991b659b3b0400e64 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 6931c30991b659b3b0400e60 by User 6937004a871a8d57a2f88536, Status: approved
+- Request: Pet 6931c30991b659b3b0400e60 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 6931c33591b659b3b0400e62 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 6931c33591b659b3b0400e62 by User 6937004a871a8d57a2f88536, Status: approved
+- Request: Pet 6931c33591b659b3b0400e62 by User 6937004a871a8d57a2f88536, Status: approved
+- Request: Pet 6931c34991b659b3b0400e64 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 6931c30991b659b3b0400e60 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 6931c30991b659b3b0400e60 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 6931c30991b659b3b0400e60 by User 6937004a871a8d57a2f88536, Status: approved
+- Request: Pet 6931c30991b659b3b0400e60 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 6931c34991b659b3b0400e64 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 69390292e9e3552c8b38e86e by User 6936fb6d871a8d57a2f8850c, Status: rejected
+- Request: Pet 69390292e9e3552c8b38e86e by User 6936fb6d871a8d57a2f8850c, Status: approved
+- Request: Pet 6931c33591b659b3b0400e62 by User 6936fb6d871a8d57a2f8850c, Status: completed
+- Request: Pet 69403c2323060ab8ee0d7a5b by User 6936fb6d871a8d57a2f8850c, Status: approved
+- Request: Pet 69441ecd4bcb1b4f13ddb28c by User 69441ecd4bcb1b4f13ddb289, Status: completed
+- Request: Pet 6931c34991b659b3b0400e64 by User undefined, Status: approved
+- Request: Pet 6979b511bbf1e64ad89a5644 by User 6979b790767c619b8fbec5e7, Status: pending
+Connected to MongoDB.
+Total Users: 2
+- User: Admin User (Role: admin) ID: 6979b511bbf1e64ad89a563d
+- User: Test User (Role: user) ID: 6979b790767c619b8fbec5e7
+Total Pets: 6
+- Pet: Buddy ID: 6979b511bbf1e64ad89a5644
+- Pet: Whiskers ID: 6979b511bbf1e64ad89a5645
+- Pet: Max ID: 6979b511bbf1e64ad89a5646
+- Pet: Luna ID: 6979b511bbf1e64ad89a5647
+- Pet: Charlie ID: 6979b511bbf1e64ad89a5648
+- Pet: Mittens ID: 6979b511bbf1e64ad89a5649
+Total Adoption Requests: 20
+- Request: Pet 6931c33591b659b3b0400e62 by User 6937004a871a8d57a2f88536, Status: approved
+- Request: Pet 6931c34991b659b3b0400e64 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 6931c30991b659b3b0400e60 by User 6937004a871a8d57a2f88536, Status: approved
+- Request: Pet 6931c30991b659b3b0400e60 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 6931c33591b659b3b0400e62 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 6931c33591b659b3b0400e62 by User 6937004a871a8d57a2f88536, Status: approved
+- Request: Pet 6931c33591b659b3b0400e62 by User 6937004a871a8d57a2f88536, Status: approved
+- Request: Pet 6931c34991b659b3b0400e64 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 6931c30991b659b3b0400e60 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 6931c30991b659b3b0400e60 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 6931c30991b659b3b0400e60 by User 6937004a871a8d57a2f88536, Status: approved
+- Request: Pet 6931c30991b659b3b0400e60 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 6931c34991b659b3b0400e64 by User 6937004a871a8d57a2f88536, Status: rejected
+- Request: Pet 69390292e9e3552c8b38e86e by User 6936fb6d871a8d57a2f8850c, Status: rejected
+- Request: Pet 69390292e9e3552c8b38e86e by User 6936fb6d871a8d57a2f8850c, Status: approved
+- Request: Pet 6931c33591b659b3b0400e62 by User 6936fb6d871a8d57a2f8850c, Status: completed
+- Request: Pet 69403c2323060ab8ee0d7a5b by User 6936fb6d871a8d57a2f8850c, Status: approved
+- Request: Pet 69441ecd4bcb1b4f13ddb28c by User 69441ecd4bcb1b4f13ddb289, Status: completed
+- Request: Pet 6931c34991b659b3b0400e64 by User undefined, Status: approved
+- Request: Pet 6979b511bbf1e64ad89a5644 by User 6979b790767c619b8fbec5e7, Status: pending

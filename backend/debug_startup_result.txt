@@ -1,0 +1,50 @@
+﻿Starting server.js...
+Dotenv configured
+Starting server.js...
+Dotenv configured
+Imports started
+Imported connectDB
+Imported authRoutes
+Imports finished
+Connecting to DB...
+DB Connected
+Starting server.js...
+Dotenv configured
+Imports started
+Imported connectDB
+Imported authRoutes
+Imports finished
+Connecting to DB...
+DB Connected
+Starting server.js...
+Dotenv configured
+Imports started
+Imported connectDB
+Imported authRoutes
+Imports finished
+Connecting to DB...
+DB Connected
+Starting server.js with error handling...
+Dotenv configured
+Selected PORT: 5001
+Connecting to DB...
+DB Connected
+Server listen error: EADDRINUSE on port 5001
+Starting server.js with error handling...
+Dotenv configured
+Selected PORT: 5001
+Connecting to DB...
+DB Connected
+Server listen error: EADDRINUSE on port 5001
+Starting server.js with error handling...
+Dotenv configured
+Selected PORT: 5001
+Connecting to DB...
+DB Connected
+Server listen error: EADDRINUSE on port 5001
+Starting server.js with error handling...
+Dotenv configured
+Selected PORT: 5002
+Connecting to DB...
+DB Connected
+Backend running on http://localhost:5002

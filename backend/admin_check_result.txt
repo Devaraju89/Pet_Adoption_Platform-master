@@ -1,0 +1,4 @@
+Connecting to: mongodb://127.0.0.1:27017/pet_adoption
+Connected to DB
+Admin user NOT FOUND
+Done

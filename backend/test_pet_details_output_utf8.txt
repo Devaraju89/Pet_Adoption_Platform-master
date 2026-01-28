@@ -1,0 +1,9 @@
+﻿[dotenv@17.2.3] injecting env (9) from .env -- tip: ≡ƒùé∩╕Å backup and recover secrets: https://dotenvx.com/ops
+Connecting to MongoDB...
+Connected.
+Testing with Pet ID: 6931c34991b659b3b0400e64
+Γ£à Pet found successfully:
+Name: Charlie
+ID: new ObjectId("6931c34991b659b3b0400e64")
+Shelter: None
+Disconnected.

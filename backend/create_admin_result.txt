@@ -1,0 +1,7 @@
+Connecting to: mongodb://127.0.0.1:27017/pet_adoption
+Connected to DB
+Creating admin user...
+Admin user created successfully!
+Email: admin@petadoption.com
+Password: admin123
+Done

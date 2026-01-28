@@ -1,0 +1,2 @@
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/Devaraju89/Pet_Adoption_Platform-master'
