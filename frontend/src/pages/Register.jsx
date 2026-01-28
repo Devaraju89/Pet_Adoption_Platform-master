@@ -376,7 +376,7 @@ export default function Register() {
               )}
             </button>
 
-            {/* Divider */}
+            {/* Google Login Disabled for Deployment
             <div className="relative">
               <div className="absolute inset-0 flex items-center">
                 <div className="w-full border-t border-gray-200"></div>
@@ -386,7 +386,6 @@ export default function Register() {
               </div>
             </div>
 
-            {/* Social Register Button */}
             <div>
               <button
                 onClick={handleGoogleSignIn}
@@ -408,6 +407,7 @@ export default function Register() {
                 </span>
               </button>
             </div>
+            */}
 
             {/* Sign In Link */}
             <div className="text-center">

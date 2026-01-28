@@ -310,7 +310,7 @@ export default function Login() {
               )}
             </button>
 
-            {/* Divider */}
+            {/* Google Login Disabled for Deployment
             <div className="relative">
               <div className="absolute inset-0 flex items-center">
                 <div className="w-full border-t border-gray-200"></div>
@@ -320,7 +320,6 @@ export default function Login() {
               </div>
             </div>
 
-            {/* Social Login Button */}
             <div>
               <button
                 onClick={handleGoogleSignIn}
@@ -342,6 +341,7 @@ export default function Login() {
                 </span>
               </button>
             </div>
+            */}
 
             {/* Sign Up Link */}
             <div className="text-center">
