@@ -28,8 +28,8 @@ import volunteerRoutes from "./routes/volunteerRoutes.js";
 import adminRoutes from "./routes/admin.js";
 import adoptionRoutes from "./routes/adoptionRoutes.js";
 import userRoutes from "./routes/userRoutes.js";
-import passport from "./config/passport.js";
-import googleAuthRoutes from "./routes/googleAuth.js";
+// import passport from "./config/passport.js";
+// import googleAuthRoutes from "./routes/googleAuth.js";
 
 const app = express();
 
@@ -40,11 +40,11 @@ app.use(cors({
 }));
 
 app.use(express.json());
-app.use(passport.initialize());
+// // app.use(passport.initialize());
 
 // Routes
 app.use("/api/auth", authRoutes);
-app.use("/api/auth", googleAuthRoutes);
+// app.use("/api/auth", googleAuthRoutes);
 app.use("/api/pets", petRoutes);
 app.use("/api/shelters", shelterRoutes);
 app.use("/api/medical", medicalRoutes);
