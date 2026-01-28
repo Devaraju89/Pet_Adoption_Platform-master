@@ -1,0 +1,7 @@
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:        
+remote:      https://github.com/Devaraju89/Pet_Adoption_Platform-master/pull/new/master        
+remote: 
+branch 'master' set up to track 'origin/master'.
+To https://github.com/Devaraju89/Pet_Adoption_Platform-master
+ * [new branch]      master -> master
